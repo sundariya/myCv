@@ -7,3 +7,4 @@
 2. Download  dependencies ``` yarn ```
 3. Run  ``` yarn start ```.
 
+4. live  demo ``` https://resume-risbjrhbwy.now.sh  ```

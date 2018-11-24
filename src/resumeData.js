@@ -26,7 +26,7 @@ let resumeData = {
     "contactNumber": "8962340487",
     "emailAddress": "suraj0533@gmail.com",
     "address":"India",
-    "website":"",
+    "website":"https://resume-risbjrhbwy.now.sh",
     "education":[
       {
         "UniversityName":"National Institute of Technology Raipr",
